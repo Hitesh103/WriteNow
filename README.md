@@ -36,11 +36,18 @@ WriteNow is built with MongoDB for data storage, Express.js for the back-end API
 
 ## Technologies Used
 • MongoDB
+
 • Express.js
+
 • React.js
+
 • Node.js
+
 • JavaScript
+
 • HTML
+
 • Bootstrap
+
 • JWT (JSON Web Tokens)
 
